@@ -13,7 +13,7 @@
 }
 
 /*
-   NetEase News Translator
+   Issue Page in Google Code Translator
    Copyright (C) 2014 Alex, alex@alexpsy.com & http://blog.alexpsy.com
 
    This program is free software: you can redistribute it and/or modify
