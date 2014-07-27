@@ -41,7 +41,7 @@
  *   - A Xin Hua Net News article page
  *   - A search listing of items
  */
-// Useage: http://news.xinhuanet.com
+// Sample Page: http://news.xinhuanet.com
 
 // #################################
 // #### Local utility functions ####

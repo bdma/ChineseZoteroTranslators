@@ -41,7 +41,7 @@
  *   - A netease article page
  *   - A search listing of itmes
  */
-// Useage: http://news.163.com
+// Sample Page: http://news.163.com
 
 // #################################
 // #### Local utility functions ####

@@ -14,7 +14,7 @@
 
 /*
    BaiduBaike Translator
-   Copyright (C) 2009-2010 TAO Cheng, acestrong@gmail.com
+   Copyright (C) 2014 Alex, alex@alexpsy.com & http://blog.alexpsy.com
 
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
@@ -38,13 +38,11 @@
  * The starting point for an search is the URL below.
  * In testing, I tried the following:
  *
+ *   - A Baidu Baike Encyclopedia page
  *   - A search listing of itmes
- *   - A encyclopedia page
  *   - A Collection page(waiting for dev)
  */
-// http://baike.baidu.com/
-// Credit: Ace Strong<acestrong@gmail.com>
-// HomePage: http://blog.alexpsy.com
+// Sample Page: http://baike.baidu.com/
 
 // #################################
 // #### Local utility functions ####

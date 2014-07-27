@@ -13,7 +13,7 @@
 }
 
 /*
-   NetEase News Translator
+   Chinese Central Discipline Inspection News Translator
    Copyright (C) 2014 Alex, alex@alexpsy.com & http://blog.alexpsy.com
 
    This program is free software: you can redistribute it and/or modify
@@ -38,7 +38,7 @@
  * The starting point for an search is the URL below.
  * In testing, I tried the following:
  *
- *   - A Xin Hua Net News article page
+ *   - A article page in ccdi.gov.cn
  *   - A search listing of items
  */
 // Useage: http://news.xinhuanet.com

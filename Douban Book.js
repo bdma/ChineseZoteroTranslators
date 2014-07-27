@@ -45,6 +45,7 @@
  *   - A do page
  *   - A wish page
  *   - A collect page
+ *   - A tags page
  */
 // http://book.douban.com/
 

@@ -13,7 +13,7 @@
 }
 
 /*
-   NetEase News Translator
+   Tencent News Translator
    Copyright (C) 2014 Alex, alex@alexpsy.com & http://blog.alexpsy.com
 
    This program is free software: you can redistribute it and/or modify
@@ -48,14 +48,14 @@
  *   - A Tencent Technology article page
  *   - A search listing of items
  */
-// Useage: http://digi.tech.qq.com
-// Useage: http://edu.qq.com
-// Useage: http://entertainment.qq.com
-// Useage: http://fashion.qq.com
-// Useage: http://finance.qq.com
-// Useage: http://mil.qq.com
-// Useage: http://news.qq.com
-// Useage: http://tech.qq.com
+// Sample Page: http://digi.tech.qq.com
+// Sample Page: http://edu.qq.com
+// Sample Page: http://entertainment.qq.com
+// Sample Page: http://fashion.qq.com
+// Sample Page: http://finance.qq.com
+// Sample Page: http://mil.qq.com
+// Sample Page: http://news.qq.com
+// Sample Page: http://tech.qq.com
 
 // #################################
 // #### Local utility functions ####
