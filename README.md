@@ -8,8 +8,9 @@ This is a project by localizing Zotero Translators in Chinese popular websites, 
 Installation
 ============
 1. download *.js files, quit all apps.
-2. move *.js files into YOUR_ZOTERO_PROFILE_FOLDER/translators
-eg, for Mac OS X Firefox Plugin Users:  /Users/yourname/Library/Application Support/Firefox/Profiles/xxxxxxxx.default/zotero/translators/
+2. move *.js files into YOUR_ZOTERO_PROFILE_FOLDER/translators/
+eg, 
+    for Mac OS X Firefox Plugin Users:  /Users/yourname/Library/Application Support/Firefox/Profiles/xxxxxxxx.default/zotero/translators/
     for Windows Standlone Users:  C:/Users/yourname/AppData/Local/Zotero/Zotero/Profiles/xxxxxxxx.default/zotero/translators/
 3. reboot.
 
