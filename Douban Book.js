@@ -1,7 +1,7 @@
 {
 	"translatorID": "fc353b26-8911-4c34-9196-f6f567c93901",
 	"label": "Douban Book",
-	"creator": "Alex<blog.alexpsy.com>",
+	"creator": "Ace Strong<acestrong@gmail.com>",
 	"target": "^https?://(?:www|book).douban.com/(?:subject|doulist|people/[a-zA-Z._]*/(?:do|wish|collect)|.*?status=(?:do|wish|collect)|group/[0-9]*?/collection|tag)",
 	"minVersion": "2.1",
 	"maxVersion": "",
@@ -15,7 +15,7 @@
 /*
    Douban Book Translator
    Copyright (C) 2009-2010 TAO Cheng, acestrong@gmail.com
-   Copyright (C) 2014 Alex, alex@alexpsy.com & http://blog.alexpsy.com
+   Credit: 2014 Alex, http://blog.alexpsy.com
    
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
@@ -45,7 +45,8 @@
  *   - A do page
  *   - A wish page
  *   - A collect page
- *   - A tags page
+ *	 - A tags page
+ *	 - Now it is able to distinguish first name & last name for part of translated foreign authors
  */
 // http://book.douban.com/
 
