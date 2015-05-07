@@ -3,7 +3,7 @@ LZTC
 
 Localize Zotero Translators in Chinese
 
-This is a project by localizing Zotero Translators in Chinese popular websites, which I launched in order to make Chinese Academic Researchers and other wirters could be easier to fit zotero.
+This is a project by localizing Zotero Translators in Chinese popular websites. It aimed at making Chinese Academic Researchers and other wirters easier to fit zotero.
 
 Installation
 ============
@@ -16,5 +16,5 @@ Installation
 
 For more
 ========
-visit my blog: http://blog.alexpsy.com/
-any questions you have just leave messages here: http://blog.alexpsy.com/pc/zotero-pc/zotero-introduction.html
+visit my blog: http://hasset.github.io/
+any questions you have just leave messages on the issues.
