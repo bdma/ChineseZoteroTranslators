@@ -16,5 +16,5 @@ Installation
 
 For more
 ========
-visit my blog: http://hasset.github.io/
-any questions you have just leave messages on the issues.
+- visit my blog: http://hasset.github.io/
+- any questions you have just leave messages on the issues.
